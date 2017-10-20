@@ -13,3 +13,5 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
+B Trees are self balancing tree data strcutures. It allows searches, sequential access, insertion and deletions in logarithmic time.
+They are commonly used in databases and filesystems to read and write large blocks of dat. In a way, B-trees are a generalization of a binary search tree on which nodes have more than two children.
